@@ -1,6 +1,4 @@
 #INSTALLATION NEEDED
-npm install --save express
-# --------
-npm install --save-dev nodemon
+npm install
 # --------
 Link to frontend Repo: https://github.com/vuxpham/REST-project-frontend
