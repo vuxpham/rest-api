@@ -1,3 +1,4 @@
-#INSTALLATION NEEDED
-npm install --save express
-npm install --save-dev nodemon
+# NOTES
+npm install
+# -------
+also change the MONGODB_URI in app.js to your URI
