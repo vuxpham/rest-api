@@ -11,7 +11,7 @@ const authRoutes = require('./routes/auth');
 const { Result } = require('express-validator');
 const path = require('path');
 
-const MONGODB_URI = 'mongodb+srv://vupa2810:bong2003@cluster0.isx1j9n.mongodb.net/messages';
+const MONGODB_URI = 'MONGODB URI';
 
 const app = express();
 
