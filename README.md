@@ -1,4 +1,4 @@
-# NOTES
-npm install
-# -------
-also change the MONGODB_URI in app.js to your URI
+# INSTALLATION NEEDED
+run npm install
+## All of this is a product of NODEJS course by Academind
+
